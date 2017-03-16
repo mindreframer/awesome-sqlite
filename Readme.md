@@ -31,7 +31,7 @@ All things around SQLite
   - https://github.com/gbrault/sqlite3jsonshell - provide json output to reworked sqlite shell
 
 ### Replications / Client-Server
-
+  - https://github.com/Expensify/Bedrock/ - Rock solid distributed database specializing in active/active automatic failover and WAN replication http://bedrockdb.com
   - https://github.com/purpleblues/sqlite - Atomic Multi-database Transaction of WAL Journaling Mode in SQLite
 
 
