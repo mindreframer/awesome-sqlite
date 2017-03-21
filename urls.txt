@@ -1,0 +1,30 @@
+http://www.gaia-gis.it/gaia-sins/
+http://lnav.readthedocs.io/en/latest/sqlext.html - Some cool SQLITE extensions....
+http://lhealy.livejournal.com/5983.html - Math extension functions in SQLite3 using CLSQL
+https://github.com/mrwilson/squib?files=1 - A small sqlite3 extension library for statistical functions.
+
+https://news.ycombinator.com/item?id=13556517 - JSON extension
+https://www.monkeybreadsoftware.de/SQLiteExtension/ - Monkeybreadsoftware SQLite Extension 1.4
+  Our SQLite Extension gives you:
+
+  Additional mathematical functions like Round or Pow.
+  Functions to save blob values in files outside the database.
+  Functions to calculate checksums on blob values on the server.
+  String functions like SoundEx or accents removing for your text searches.
+  Regular Expressions in queries.
+
+
+
+https://github.com/paramvir-b/sqliteloader - Sql loader for sqlite. [csv2sqlite, csv to sqlite, CSV to SQLite]
+https://github.com/GitbookIO/micro-analytics - A micro multi-website analytics database service designed to be fast and robust, built with Go and SQLite
+https://github.com/miloszpiglas/sqlite-go-extension - Experimental SQLite extension implemented in Go
+https://github.com/GitbookIO/go-sqlpool - A high level pool for maintaining pools of *sql.DB databases (e.g: thousands of SQLite files)
+https://github.com/illarionov/sqlite3-unicodesn - SQLite unicode full-text-search tokenizer with Snowball stemming
+https://github.com/dkulchenko/watchdb - Keeping SQLite databases in sync
+https://github.com/hawk-i-/GTFStoSQLite - This is a GTFS parser build using golang to parse GTFS data to SQLite database
+https://github.com/leo-yuriev/libfpta - Fast Positive Tables (aka "Позитивные Таблицы)" https://www.ptsecurity.ru
+https://wizardforcel.gitbooks.io/sqlite-doc-en/63.html - The Architecture Of SQLite
+
+
+
+- https://github.com/ReOpen/libmdbx - Extended LMDB, aka "Расширенная LMDB".
